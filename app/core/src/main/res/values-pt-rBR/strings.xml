@@ -216,7 +216,7 @@
     <string name="hide_app_title">Ocultando o app do Magisk…</string>
     <string name="open_link_failed_toast">Nenhum app encontrado para abrir o link</string>
     <string name="complete_uninstall">Desinstalação completa</string>
-    <string name="restore_img">Restaurar imagens</string>
+    <string name="restore_img">Restaurar imagens.</string>
     <string name="restore_img_msg">Restaurando…</string>
     <string name="restore_done">Restauração concluída!</string>
     <string name="restore_fail">O backup original não existe!</string>
